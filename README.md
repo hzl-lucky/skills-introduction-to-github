@@ -11,3 +11,4 @@ Exercise: Introduction to GitHub
 - README.md 文件怎么写
 - Markdown 基础语法
 - 如何保存和提交修改
+- 我正在学习如何使用分支
