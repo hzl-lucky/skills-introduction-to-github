@@ -7,3 +7,7 @@ Exercise: Introduction to GitHub
 - Codespaces 编辑器
 
 ## 我的目标
+- GitHub 仓库是什么
+- README.md 文件怎么写
+- Markdown 基础语法
+- 如何保存和提交修改
